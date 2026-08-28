@@ -10,4 +10,4 @@ PRODUCT_NAME := omni_exynos9611
 PRODUCT_DEVICE := exynos9611
 PRODUCT_MODEL := SM-Y000X	# Just a random model
 PRODUCT_BRAND := samsung
-PRODUCT_MANUFACTURER := samsung
+PRODUCT_MANUFACTURER := Abhijay
